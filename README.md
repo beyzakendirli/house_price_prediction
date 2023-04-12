@@ -3,7 +3,7 @@
 Hello, my name is Beyza. Recently, I trained a model to predict the price of a house by using MLR (Multiple Linear Regression) technique. 
 This repository contains my codes, the libraries which I used and my Medium blog post.
 
-Please reach out the libraries which have been used below
+Please reach out the libraries which have been used below: 
 import pandas as pd
 import numpy as np
 import seaborn as sns
