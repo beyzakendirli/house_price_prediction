@@ -18,9 +18,10 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score, mean_squared_error
 
-(Medium Blog Post)
-Please reach out the Medium blog post which I shared my experince as best practice:
+(Medium Blog Posts)
+Please reach out the Medium blog posts which I shared my experince as best practice:
 https://medium.com/@beyzakendirli98/multiple-linear-regression-best-practice-house-price-prediction-e00105996cb6 
+https://medium.com/@beyzakendirli/how-chatgbt-explains-data-science-to-a-person-who-has-no-knowledge-at-all-762100c85f20 
 
 (Project Motivation)
 My main motivation for the project is to train my first prediction model and gain data science experience with hands on practice.
