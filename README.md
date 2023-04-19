@@ -4,6 +4,8 @@ Hello, my name is Beyza. Recently, I trained a model to predict the price of a h
 
 (File Descriptions)
 This repository contains my codes, the libraries which I used and my Medium blog post.
+House Price Prediction V4.ipynb: Notebook containing the data analysis.
+data.csv: Dataset that I worked on.
 
 (Installations)
 I downloaded the house price prediction dataset from Kaggle > https://www.kaggle.com/datasets/shree1992/housedata 
