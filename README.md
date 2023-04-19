@@ -25,3 +25,8 @@ https://medium.com/@beyzakendirli/how-chatgbt-explains-data-science-to-a-person-
 
 (Project Motivation)
 My main motivation for the project is to train my first prediction model and gain data science experience with hands on practice.
+
+I have answered these questions below:
+1) What percentage of the houses have been renovated?
+2) Does renovation has a big impact on the condition of a house?
+3) How many households are using more than half of their land as living space and what is the percentage?
